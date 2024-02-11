@@ -1,4 +1,4 @@
-# yasmpate-Exercise-2d-Scenes-And-Menus
+# yasmpate-Project 2 Space Shooters
 Exercise for MSCH-C220
 
 A user-controlled ship for a space-shooter game. Recently added the ability to shoot at asteroids. Created in Unity.
